@@ -29,7 +29,7 @@ The website serves as a central place where recruiters, employers, and collabora
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio-website.git
+git clone https://github.com/Hlulane-code/portfolio-website.git
 ```
 
 ### Install dependencies
@@ -55,10 +55,11 @@ http://127.0.0.1:5000
 ```
 portfolio-website/
 │
+├── __pycache__
 ├── static/
 ├── templates/
 ├── app.py
-├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
